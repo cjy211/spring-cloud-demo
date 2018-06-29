@@ -1,3 +1,11 @@
 spring-cloud-eureka/.idea/
 spring-cloud-eureka/spring-cloud-eureka.iml
 .idea/
+springcloudeureka/eureka-server/.mvn/wrapper/maven-wrapper.properties
+springcloudeureka/eureka-server/.mvn/wrapper/maven-wrapper.jar
+springcloudeureka/eureka-provider/.mvn/wrapper/maven-wrapper.properties
+springcloudeureka/eureka-provider/.mvn/wrapper/maven-wrapper.jar
+springcloudeureka/eureka-consumer/mvnw.cmd
+springcloudeureka/eureka-consumer/mvnw
+springcloudeureka/eureka-consumer/.mvn/wrapper/maven-wrapper.properties
+springcloudeureka/eureka-consumer/.mvn/wrapper/maven-wrapper.jar
