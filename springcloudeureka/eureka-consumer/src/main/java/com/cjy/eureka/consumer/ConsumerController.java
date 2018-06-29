@@ -50,7 +50,7 @@ public class ConsumerController {
         ServiceInstance instance = serviceInstance();
        return helloRemote.hello(instance.getServiceId());
     }
-
+ 
     @RequestMapping(value = "/ff", method = RequestMethod.GET)
     public String ff() {
         ServiceInstance instance = serviceInstance();
